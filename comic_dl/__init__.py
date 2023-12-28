@@ -5,3 +5,7 @@
 # # import comic_dl
 # # import globalFunctions
 # # from comic_dl import ComicDL
+
+from .__main__ import main
+
+__all__ = ["main",]
